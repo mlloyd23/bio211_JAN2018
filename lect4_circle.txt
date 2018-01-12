@@ -1,4 +1,4 @@
-green	dark blue	pink	red
+green	dark_blue	pink	red
 15	3	1	0
 4	3	0	5
 1	2	0	2
