@@ -1,4 +1,4 @@
-##t-test on sampling board data
+##t-test on human phys data
 #Lecture 4
 
 getwd()
