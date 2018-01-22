@@ -6,8 +6,6 @@ set.seed(124)
 data<-rpois(1000, 3)
 data
 
-
-##Visual and quantitative tests of normality
 ##Plot a histogram and Q-Q plot
 
 
@@ -31,12 +29,14 @@ data
 
 ##shapiro-wilk test
 
+##Here is some random proportional data:
+prop.data <- seq(-1, 1, length = 100)
 
 ##Perform arcsine-square root transformation
 
 
 ##Plot the histogram
 
-##Tukey's Ladder of Powers transformation
+##shapiro-wilk test
 
-#Plot histogram
+
