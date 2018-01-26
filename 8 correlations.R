@@ -19,4 +19,5 @@
 
 #Using the cars dataset, run a linear regression to look for the effect
 #of stopping distance on speed
+#make a plot, add the line
 head(cars)
